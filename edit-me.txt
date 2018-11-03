@@ -1,1 +1,2 @@
 //am done
+alert "my name is John"
